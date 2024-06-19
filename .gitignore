@@ -3,5 +3,6 @@
 *bak
 
 # docker gitignore entries
+.env
 
 # kubernetes gitignore entries
