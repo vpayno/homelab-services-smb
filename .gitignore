@@ -1,0 +1,7 @@
+# generic gitignore entries
+*~
+*bak
+
+# docker gitignore entries
+
+# kubernetes gitignore entries
