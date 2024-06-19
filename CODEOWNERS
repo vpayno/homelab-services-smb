@@ -15,3 +15,5 @@ CHANGELOG.md            @vpayno
 .gitignore              @vpayno
 .yamlfix.yaml           @vpayno
 .yamllint.yaml          @vpayno
+.wokeignore             @vpayno
+.woke.yaml              @vpayno
