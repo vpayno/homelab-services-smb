@@ -1,3 +1,3 @@
-# homelab-services-owncloud
+# homelab-services-smb
 
-Personal homelab service repo for the [OwnCloud](https://github.com/owncloud) service.
+Personal homelab service repo for the [Samba](https://github.com/samba-team) service.
